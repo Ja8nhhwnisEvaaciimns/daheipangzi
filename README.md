@@ -4,3 +4,4 @@ Add feature for X [kwYymx] line 4.3
 Update documentation [kN9lcc] line 6.2
 Add test case for W [ZJG1IR] line 9.1
 Add test case for W [ZJG1IR] line 9.3
+Add test case for W [Ab7R9d] line 12.1
